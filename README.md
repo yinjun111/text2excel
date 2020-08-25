@@ -4,6 +4,10 @@ version: 0.3
 Andrew P. Hodges, Ph.D., Jun Yin, Ph.D.
 Copyright, Sanford Burnham Prebys Medical Discovery Institute
 
+Prerequisites:
+Perl module Excel::Writer::XLSX
+
+
 Description: Perl script to generate compile xlsx file from individual text files. The script will prevent automatic format changes in Excel for gene names, special texts, and combine different text files in to Excel tabs.
 
 Usage: 
